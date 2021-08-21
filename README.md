@@ -1,4 +1,9 @@
-# Ledger-nano-recovery-sheet <img scr="https://raw.githubusercontent.com/rajaahirwarofficial/Ledger-nano-recovery-sheet/main/images/ledger_logo.png" height="50px" weight="auto">
+# Ledger-nano-recovery-sheet <style>
+img {
+  width: 150px;
+}
+</style>
+<img src="https://raw.githubusercontent.com/rajaahirwarofficial/Ledger-nano-recovery-sheet/main/images/ledger_logo.png" style="width:150px">
 <br>Ledger nano X recovery phrase sheet</br>
 <br>Ledger nano S recovery phrase sheet</br>
 <br>Front and Back <a href="https://github.com/rajaahirwarofficial/Ledger-nano-recovery-sheet/raw/main/Ledger-Nano-S-Recovery-sheet.pdf">Download PDF</a></br>
