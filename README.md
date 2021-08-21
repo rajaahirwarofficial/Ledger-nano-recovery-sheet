@@ -1,4 +1,5 @@
-# Ledger-nano-recovery-sheet <style>
+# Ledger-nano-recovery-sheet 
+<style>
 img {
   width: 150px;
 }
