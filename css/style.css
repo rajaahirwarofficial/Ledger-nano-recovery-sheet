@@ -16,11 +16,13 @@
 	color: #ff1a1a;
 	font-size: 40px;
 	cursor: pointer;
+	padding: 10px;
 }
 
 .lines1 {
 	margin-top: 50px;
 	float: left;
+	padding: 10px;
 }
 
 .lines1 ul {
@@ -39,6 +41,7 @@
 .lines2 {
 	margin-top: 50px;
 	float: right;
+	padding: 10px;
 }
 
 .lines2 ul {
